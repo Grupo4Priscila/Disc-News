@@ -6,7 +6,6 @@ import org.junit.Test;
 import java.io.IOException;
 import java.util.List;
 
-import cl.ucn.disc.dam.discnews.controller.NewsController;
 import cl.ucn.disc.dam.discnews.model.Article;
 
 /**
